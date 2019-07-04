@@ -1,0 +1,16 @@
+body{
+    background-image:url( https://i.ytimg.com/vi/WNOB8ZH3IzY/maxresdefault.jpg);
+ 
+ background-size: cover;
+}
+body h1{
+    text-align: center;
+    border: 1px solid red;
+border-width: 17px;
+color:green
+    
+}
+body h2{
+color:green 
+
+}
